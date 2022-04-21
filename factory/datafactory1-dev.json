@@ -1,0 +1,9 @@
+{
+	"name": "datafactory1-dev",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2ca8b2fe-f8c4-479a-8d48-c806fd0c7ccc",
+		"tenantId": "947c33d0-339e-4831-b5eb-ce9bfa7e2403"
+	}
+}
